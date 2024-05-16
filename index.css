@@ -1,0 +1,9 @@
+#btnInsertUpdate {
+    background-color: rgb(105, 224, 105);
+    border-radius: 5px;
+}
+
+#btnClear {
+    background-color: rgb(249, 98, 98);
+    border-radius: 5px;
+}
